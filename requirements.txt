@@ -1,0 +1,26 @@
+# Data
+pandas>=2.0
+numpy>=1.24
+openpyxl>=3.1          # lecture xlsx (émissions IDFM)
+
+# Visualisation
+matplotlib>=3.7
+seaborn>=0.13
+plotly>=5.17
+
+# Machine learning
+scikit-learn>=1.4
+xgboost>=2.0
+
+# API et requêtes
+requests>=2.31
+python-dotenv>=1.0     # gestion clé API PRIM via .env
+
+# Dashboard
+streamlit>=1.30
+folium>=0.15
+streamlit-folium>=0.18
+
+# Notebooks
+jupyter>=1.0
+ipykernel>=6.27
